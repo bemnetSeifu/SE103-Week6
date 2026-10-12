@@ -1,0 +1,12 @@
+Student Name: Bemnet Kebede
+GitHub Username: bemnetSeifu
+Repository: SE103-Week6
+Repository URL: https://github.com/bemnetSeifu/SE103-Week6
+
+Git habits I demonstrated this week:
+I checked the repository status before making changes and committing files. I used branches to work on changes separately from main. I wrote clear commit messages that describe the work I completed. I reviewed my changes before committing them. I used a pull request to review and merge my README improvements. I checked which files should be tracked and used .gitignore to keep unwanted files out of the repository.
+
+One mistake-prevention habit I will keep:
+I will run git status before staging or committing so I know which files have changed. I will also review staged changes before committing and check the current branch before pushing to GitHub.
+
+All required files are on main: Yes
