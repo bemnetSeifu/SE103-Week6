@@ -1,0 +1,9 @@
+Git Ignore Proof
+
+The .gitignore file contains rules for .DS_Store, *.log, temp/, and secret.env.
+
+I created secret.env, temp/temp_note.txt, and practice/app.log to test the rules.
+
+I used git status --short to inspect the working tree and git check-ignore -v to confirm which rules matched the test files.
+
+The test files are ignored and should not be committed to GitHub.
