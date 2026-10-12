@@ -1,0 +1,13 @@
+Student Name: Bemnet Kebede
+
+What changed:
+I added a section to the README explaining four habits I use to work carefully with Git. The habits cover checking repository status, reviewing changes, writing clear commit messages, and checking the current branch.
+
+How I verified the change:
+I reviewed the README to confirm the new section was added and the existing identity lines were preserved. I also checked that the four habits were clear and relevant to safe Git usage.
+
+One possible improvement a reviewer might suggest:
+A reviewer might suggest adding examples of commands used to check repository status and review changes. This could make the habits easier for a beginner to follow.
+
+Professional response I would give:
+Thank you for the suggestion. I agree that practical examples could make the section more useful, and I would consider adding them while keeping the README concise.
