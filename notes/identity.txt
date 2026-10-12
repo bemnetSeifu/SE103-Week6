@@ -1,0 +1,5 @@
+Full Name: Bemnet Kebede
+GitHub Username: bemnetSeifu
+Date Started: 2026-10-12
+Auth Method: PAT
+One Git habit I want to improve: I want to inspect my changes before staging and committing them.
