@@ -1,0 +1,7 @@
+Student Name: Bemnet Kebede
+
+What I check before committing:
+I run git status to see which files are modified or untracked. I inspect the changes with git diff and review staged changes with git diff --cached. I check that I have not included passwords, secrets, or unrelated files. I also confirm that the changes match the purpose of the commit.
+
+What I am committing now and why:
+I am committing these notes to document my inspect-before-commit habit. Keeping this file in a separate commit makes its purpose clear and distinct from my small-commit plan.
